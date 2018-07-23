@@ -243,7 +243,7 @@ class Schema:
             #
             lines.append(u""".. rubric:: Описание класса ``{}``.""".format(self._table_class))
             lines.append(u"""""")
-            for line_index in xrange(len(lines_original)):
+            for line_index in range(len(lines_original)):
                 lines.append(lines_original[line_index])
 
             lines.append(u"""""")
