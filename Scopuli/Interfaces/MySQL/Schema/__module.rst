@@ -1,4 +1,4 @@
-.. _module-scopuli-interfaces-mysql-schema:
+.. _module-scopuli_interfaces_mysql_schema:
 
 Scopuli.Interfaces.MySQL.Schema
 ===============================

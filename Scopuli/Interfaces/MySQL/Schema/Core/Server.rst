@@ -1,4 +1,4 @@
-.. _module-scopuli-interfaces-mysql-schema-core-server:
+.. _module-scopuli_interfaces_mysql_schema_core_server:
 
 Scopuli.Interfaces.MySQL.Schema.Core.Server
 ===========================================

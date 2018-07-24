@@ -1,4 +1,4 @@
-.. _module-scopuli-interfaces-mysql-schema-core-login:
+.. _module-scopuli_interfaces_mysql_schema_core_login:
 
 Scopuli.Interfaces.MySQL.Schema.Core.Login
 ==========================================

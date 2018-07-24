@@ -1,7 +1,7 @@
-.. _module-share_sphinx_autodoc_schema:
+.. _module-scopuli_sphinx_autodoc_schema:
 
-share.sphinx.AutoDoc.Schema
-===========================
+Scopuli.Sphinx.AutoDoc.Schema
+=============================
 
 Класс помощник, раскладывает столбцы и связи ORM SqlAlchemy в удобночитаемые таблицы.
 
@@ -35,7 +35,7 @@ share.sphinx.AutoDoc.Schema
         app.connect('autodoc-skip-member', autodoc_skip_member)
         app.connect('autodoc-process-docstring', autodoc_process_docstring)
 
-.. automodule:: share.sphinx.AutoDoc.Schema
+.. automodule:: AutoDoc.Schema
     :members:
     :undoc-members:
     :private-members:

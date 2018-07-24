@@ -41,7 +41,7 @@ Scopuli Engine Documentation
     :titlesonly:
 
     SQL/__module
-    share/__module
+    Sphinx/__module
 
 
 Документация и утилиты

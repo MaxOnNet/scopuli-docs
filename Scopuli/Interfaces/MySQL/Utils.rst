@@ -1,4 +1,4 @@
-.. _module-scopuli-interfaces-mysql-utils:
+.. _module-scopuli_interfaces_mysql_utils:
 
 Scopuli.Interfaces.MySQL.Utils
 ==============================

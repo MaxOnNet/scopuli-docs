@@ -1,8 +1,7 @@
-.. _module-scopuli_interfaces_mysql:
+.. _module-scopuli_interfaces_web_utils:
 
-Scopuli.Interfaces.MySQL
-========================
-
+Scopuli.Interfaces.WEB.Utils
+============================
 
 Базовые классы
 --------------
@@ -10,9 +9,8 @@ Scopuli.Interfaces.MySQL
     :maxdepth: 1
     :titlesonly:
 
-    SQLAlchemy
-    Types
-    Utils
+    Form
+    Pager
 
 Подгруппы
 ---------
@@ -20,11 +18,11 @@ Scopuli.Interfaces.MySQL
     :maxdepth: 6
     :titlesonly:
 
-    Schema/__module
+
 
 Функции модуля
 --------------
-.. automodule:: Scopuli.Interfaces.MySQL
+.. automodule:: Scopuli.Interfaces.WEB.Utils
     :members:
     :undoc-members:
     :private-members:

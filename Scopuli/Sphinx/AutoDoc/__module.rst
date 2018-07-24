@@ -1,7 +1,7 @@
-.. _module-share_sphinx_autodoc:
+.. _module-scopuli_sphinx_autodoc:
 
-share.sphinx.AutoDoc
-====================
+Scopuli.Sphinx.AutoDoc
+======================
 
 Штатных средств Sphinx'a мне не хватило для анализа и корректного составления документации. Пришлось описывать дополнительный функционал.
 

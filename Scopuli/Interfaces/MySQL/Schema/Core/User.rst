@@ -1,4 +1,4 @@
-.. _module-scopuli-interfaces-mysql-schema-core-user:
+.. _module-scopuli_interfaces_mysql_schema_core_user:
 
 Scopuli.Interfaces.MySQL.Schema.Core.User
 =========================================

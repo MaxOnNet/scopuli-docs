@@ -1,8 +1,7 @@
-.. _module-scopuli_interfaces_mysql:
+.. _module-scopuli_interfaces_web:
 
-Scopuli.Interfaces.MySQL
-========================
-
+Scopuli.Interfaces.WEB
+======================
 
 Базовые классы
 --------------
@@ -10,9 +9,11 @@ Scopuli.Interfaces.MySQL
     :maxdepth: 1
     :titlesonly:
 
-    SQLAlchemy
-    Types
-    Utils
+    Database
+    Site
+    Page
+    Module
+    Widget
 
 Подгруппы
 ---------
@@ -20,11 +21,12 @@ Scopuli.Interfaces.MySQL
     :maxdepth: 6
     :titlesonly:
 
-    Schema/__module
+    Jinja/__module
+    Utils/__module
 
 Функции модуля
 --------------
-.. automodule:: Scopuli.Interfaces.MySQL
+.. automodule:: Scopuli.Interfaces.WEB
     :members:
     :undoc-members:
     :private-members:

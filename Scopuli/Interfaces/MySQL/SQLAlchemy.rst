@@ -1,4 +1,4 @@
-.. _module-scopuli-interfaces-mysql-sqlalchemy:
+.. _module-scopuli_interfaces_mysql_sqlalchemy:
 
 Scopuli.Interfaces.MySQL.SQLAlchemy
 ===================================

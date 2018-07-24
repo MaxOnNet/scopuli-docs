@@ -1,4 +1,4 @@
-.. _module-scopuli-interfaces-config:
+.. _module-scopuli_interfaces_config:
 
 Scopuli.Interfaces.Config
 =========================

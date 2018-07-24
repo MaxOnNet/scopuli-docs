@@ -1,4 +1,4 @@
-.. _module-scopuli-interfaces-mysql-types:
+.. _module-scopuli_interfaces_mysql_types:
 
 Scopuli.Interfaces.MySQL.Types
 ==============================
