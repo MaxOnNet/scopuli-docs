@@ -31,5 +31,6 @@ Scopuli.Interfaces.GUI
     :maxdepth: 2
     :titlesonly:
 
+    ApplicationModule
     WindowModule
     WidgetModule

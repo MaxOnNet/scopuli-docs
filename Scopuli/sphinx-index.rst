@@ -18,9 +18,9 @@ Scopuli Engine Documentation
 -----------------
 Проект делится на несколько основных частей.
 
-#. DataBase
-#. GUI Application
-#. Web Application
+#. Core Library
+#. GUI Application's
+#. Web Application's
 #. Console Application's
 
 Структура кодовой базы
@@ -34,22 +34,21 @@ Scopuli Engine Documentation
     WEB/__module
     Server/__module
 
-Дополнения и разный хлам
-------------------------
+Средства документирования и развертывания
+-----------------------------------------
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 2
     :titlesonly:
 
-    SQL/__module
     Sphinx/__module
 
+    sphinx-config
 
-Документация и утилиты
-----------------------
+Road Map
+--------
 .. toctree::
     :maxdepth: 2
 
-    sphinx-config
     sphinx-todolist
 
 Примеры использования кодовой базы

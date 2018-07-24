@@ -8,3 +8,4 @@ Scopuli.Sphinx
     :caption: Содержимое
     :maxdepth: 1
 
+    AutoDoc/__module

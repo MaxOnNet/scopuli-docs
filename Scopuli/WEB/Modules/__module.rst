@@ -15,6 +15,8 @@ Scopuli.WEB.Modules
     Club/__module
     ELink/__module
     Hooks/__module
+    Shop/__module
+    MyHome/__module
 
     Account
     Analytics
@@ -30,6 +32,7 @@ Scopuli.WEB.Modules
     Session
     Sitemap
     Vacancy
+
 
 Функции модуля
 --------------
